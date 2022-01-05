@@ -8,10 +8,12 @@ Variabel yang dapat memprediksi apakah pelanggan akan churn atau tidak adalah:
      Tidak ditemukan pelanggan yang memperbarui kontraknya akan diberi label churn(warna jingga). Berarti untuk mengurangi tingkat churn, 
      perusahaan perlu membuat program perpanjangan kontrak yang menarik.
    - Data Plan
+   
      Pelanggan yang dikategorikan churn memiliki Paket data yang lebih rendah dibandingkan yang tidak.
    - Data Usage
+   
      Pelanggan yang dikatogirkan churn memiliki penggunaan data yang lebih rendah dibandingkan yang tidak.
-   - Cust Serv Calls
+   - Cust Serv Calls\n
      Kebanyakan pelanggan yang menelpon layanan pelanggan sebanyak 0-3 dikategorikan tidak churn. 
      Pelanggan yang menghubungi >3 punya kecendrungan untuk berhenti berlangganan.
    - Roam Mins
