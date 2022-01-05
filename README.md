@@ -4,6 +4,7 @@ Digunakan model Logistic Regression dengan data yang dioversampling untuk mengkl
 
 Variabel yang dapat memprediksi apakah pelanggan akan churn atau tidak adalah:
    - Contract Renewal
+   
      Tidak ditemukan pelanggan yang memperbarui kontraknya akan diberi label churn(warna jingga). Berarti untuk mengurangi tingkat churn, 
      perusahaan perlu membuat program perpanjangan kontrak yang menarik.
    - Data Plan
