@@ -16,14 +16,14 @@ Variabel yang dapat memprediksi apakah pelanggan akan churn atau tidak adalah:
    - Cust Serv Calls\n
      Kebanyakan pelanggan yang menelpon layanan pelanggan sebanyak 0-3 dikategorikan tidak churn. 
      Pelanggan yang menghubungi >3 punya kecendrungan untuk berhenti berlangganan.
-   - Roam Mins
+   - Roam Mins/n
      Pelanggan yang berhenti berlanggan melakukan roaming lebih rendah dibandingkan yang tetap berlangganan.
 
 Variabel yang tidak berkaitan signifikan dengan pola churn pelanggan:
-   - AccountWeeks
+   - AccountWeeks \n
      Lamanya seseorang sudah jadi pengguna produk tidak berkaitan dengan pola churn pelanggan. 
      Hal ini berarti, perusahaan tidak perlu mengkhawatirkan apakah pengguna baru akan menjadi pengguna yang loyal atau tidak.
-   - DayMins
+   - DayMins /n
      Tidak terlihat hubungan signifikan antara churn dengan durasi panggilan yang dilakukan pengguna.
    - DayCalls
      Jumlah panggilan tiap hari tidak berkaitan dengan pola churn pelanggan.
